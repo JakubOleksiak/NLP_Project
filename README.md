@@ -22,7 +22,8 @@ Powyższy zrzut ekranu ukazujący konkretny fragment kodu użyty do pozyskania t
 - Po wypakowaniu powyżej wspomnianych plików (lub pobrania/użycia ich z załączonego w projekcie linku do Google Drive) można je załadować odpowiednimi metodami.
 6. Projekt można tak naprawdę uruchomić od góry do dołu cały (np. opcja "uruchom wszystko" w Google Collab), ale z racji, że niektóre modele (zwłaszcza BERT i Kerasowy) uczą się dosyć długo, modele te można wczytać z załączonych plików.
 7. NALEŻY PAMIĘTAĆ O ZMIANIE ŚCIEŻEK DO PLIKÓW NA LOKALNE!
-8. Projekt jest podzielony (w notatniku) na same
+8. Projekt jest podzielony (w notatniku) na rozdziały odpowiadające poszczególnym wymaganiom/etapom projektowym.
+9. Jeśli chodzi o jak najłatwiejsze uruchomienie projektu - po wypakowaniu wszystkich archiw, wystarczy wszystkie pliki (.csv oraz .model) oraz folder .model (powstały po wypakowaniu BERTa) umieścić w jednym folderze, a następnie zmienić ścieżkę `path_to_work_folder` na ścieżkę do tego właśnie folderu.
 
 
 Wyniki i wnioski
