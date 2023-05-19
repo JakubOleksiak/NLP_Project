@@ -27,7 +27,7 @@ Powyższy zrzut ekranu ukazujący konkretny fragment kodu użyty do pozyskania t
 
 Wyniki i wnioski
 
-Bawiłem się naprawdę niesamowicie przy tym projekcie, autolabelując na żywym organizmie. 
+Bawiłem się naprawdę niesamowicie przy tym projekcie, autolabelując na żywym organizmie.
 W modelu kerasowym postanowiłem nie używać LSTMów, zamiast tego po prostu złączyłem wejścia TFIDFowych scores i osadzeń wyrazów - było bardzo ciekawie, nauczyłem się dużo, ale nie wiem, czy jest to najbardziej optymalny sposób (spoiler - zdecydowanie nie).
 Użycie BERTA też jest niesamowite, bardzo user-friendly, chociaż tzw. learning curve ma dosyć wysokie.
 
@@ -39,6 +39,7 @@ Utworzyłem też w trakcie projektu WordCloud:
 ![wc](https://github.com/JakubOleksiak/NLP_Project/assets/69526785/410a0745-d1ad-43f3-8d4d-b2b9bb0170db)
 
 Jestem dosyć zadowolony ogólnie z wynikowych modeli, chociaż na pewno lepsze wyniki otrzymałbym z użycia jakiejś bardziej zaawansowanej metody autolabellingu, oraz może dodatkowej obróbki tekstu (?).
-Na pewno coś mi umknęło przy dostrajaniu BERTa
+Na pewno coś mi umknęło przy dostrajaniu BERTa, jako że jest to dla mnie dosyć nowy obszar wiedzy.
+Końcowy plik tego nie pokazuje, ale próbowałem również podejścia z GloVe - okazało się jednak, że Word2Vec daje o wiele lepsze rezultaty (i jest też wygodniejszy), także zmieniłem strategię.
 
 Bardzo dziękuję za możliwość takiego pobawienia się z NLP - to była przygoda poszerzająca horyzonty umiejętności w dziedzinie przetwarzania języka naturalnego, z której na każdym kroku czerpałem duże dawki przyjemności.
