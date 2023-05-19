@@ -14,7 +14,7 @@ Instrukcja uruchomienia (tzw. Setup):
 3. Pliki w folderze "CSV-data" to pliki z danymi pandas Dataframe zapisanymi do plików csv. Można je wczytać za pomocą metody `pd.read_csv(f'{path_to_file}')`
 4. Najważniejszy z plików .csv to plik "tweets45k.csv". Jest to zbiór 45 tysięcy tweetów pozyskanych poprzez użycie api Twittera wraz z biblioteką Tweepy.
 ![image](https://github.com/JakubOleksiak/NLP_Project/assets/69526785/b58471d4-fc50-4b67-b61c-0558c2d5719e)
-Powyższy zrzut ekranu ukazujący konkretny fragment kodu użyty do pozyskania tweetów. Najważniejsze to oczywiście query.
+Powyższy zrzut ekranu ukazujący konkretny fragment kodu użyty do pozyskania tweetów. Najważniejsze to oczywiście query. W tym query to niby miało być bez linków, ale twitter chyba jakoś zamienia długie tweety na jakieś ich podstrony, co zupełnie sprawia, że są dosyć ucięte niektóre. Musiałem potem w obróbce danych wziąć na to poprawkę ponownie usuwając linki.
 5.   Pliki w folderze "Models" to zapisane modele:
 - Modele klasycznego ML można wczytać za pomocą biblioteki pickle, chociaż to trochę na wyrost, bo uczą się super szybko.
 - "word2vec.model" można wczytać za pomocą `Word2Vec.load(f'{path_to_file}')`
