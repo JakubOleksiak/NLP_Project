@@ -1,5 +1,5 @@
 # NLP_Project
-Project done during one of the courses on PJAIT - because of it the text below will be in Polish.
+Project done during one of the courses on PJAIT - because of it the text below will be in Polish. If someone will be interested in the project, let me know, I can do a translated one.
 
 # Projekt NLP - s18728 Jakub Oleksiak
 
