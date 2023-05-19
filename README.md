@@ -3,7 +3,7 @@ Project done during one of the courses on PJAIT - because of it the text below w
 
 # Projekt NLP - s18728 Jakub Oleksiak
 
-#### Dla wszystkich studentów na roku których będzie kusiło o leciutki plagiat mam uprzejmą przestrogę - nie wyjdzie wam, modyfikacje i hiperparametry poczynione i ustawione w niniejszym projekcie są bardzo specyficzne dla tego projektu - ja wiem dlaczego są tak ustawione, wy nie. Zostaliście ostrzerzeni :)
+#### Dla wszystkich studentów na roku których będzie kusiło o leciutki plagiat mam uprzejmą przestrogę - nie wyjdzie wam, modyfikacje i hiperparametry poczynione i ustawione w niniejszym projekcie są bardzo specyficzne dla tego projektu - ja wiem dlaczego są tak ustawione, wy nie. Zostaliście ostrzeżeni :)
 ##### Oczywiście nie dotyczy to pliku z tweetami, ten oczywiście możecie brać jak komuś nie udało się wystarczająco dużego zbioru danych pozyskać.
 
 Instrukcja uruchomienia (tzw. Setup):
