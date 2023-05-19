@@ -3,6 +3,8 @@ Project done during one of the courses on PJAIT - because of it the text below w
 
 # Projekt NLP - s18728 Jakub Oleksiak
 
+#### Dla wszystkich studentów na roku których będzie kusiło o leciutki plagiat mam uprzejmą przestrogę - nie wyjdzie wam, modyfikacje i hiperparametry poczynione i ustawione w niniejszym projekcie są bardzo specyficzne dla tego projektu - ja wiem dlaczego są tak ustawione, wy nie. Zostaliście ostrzerzeni :)
+
 Instrukcja uruchomienia (tzw. Setup):
 
 0. Jeśli jedyne co jest na celu to przejrzenie projektu, nie uruchomienie go, to wystarczy kliknąć w plik "NLPPRO.ipynb" i wybrać opcję "preview" na GitHubie.
