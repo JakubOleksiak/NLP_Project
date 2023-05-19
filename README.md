@@ -4,6 +4,7 @@ Project done during one of the courses on PJAIT - because of it the text below w
 # Projekt NLP - s18728 Jakub Oleksiak
 
 Instrukcja uruchomienia (tzw. Setup):
+
 0. Jeśli jedyne co jest na celu to przejrzenie projektu, nie uruchomienie go, to wystarczy kliknąć w plik "NLPPRO.ipynb" i wybrać opcję "preview" na GitHubie.
 1. Pobrać/sklonować projekt.
 2. Plik "NLPPRO.ipynb" jest plikiem notatnika Jupyter, trzeba uruchomić w programie obsługującym ten typ plików (Google Colab, Jupyter Notebook itp.)
